@@ -10,13 +10,16 @@ p {
 
 .business-card {
     width: 300px;
-    background-color: #724c14;
+    /* background-color: #724c14; */
     padding: 20px;
     margin-top: 100px;
     text-align: center;
     font-size: 16px;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 10px;
+    background: linear-gradient(#291b01, #926d27, #291b01);
+    color: aliceblue;
 }
 
 .profile-image {
@@ -26,6 +29,7 @@ p {
 a {
     color: white;
     text-decoration: none;
+    background-color: rgb(173, 122, 118);
 }
 
 a:hover {
@@ -37,3 +41,16 @@ a:hover {
     font-size: 120%;
 }
 
+footer > p {
+    width: 300px;
+    margin: auto;
+    text-align: center;
+    margin-top: 15px;
+}
+
+footer a {
+    font-size: 1.1rem;
+    color: #573604;
+    background-color: white;
+    padding: 0%;
+}
