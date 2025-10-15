@@ -25,7 +25,7 @@ This project demonstrates the basics of styling with CSS, including layout, text
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/business-card.git
+git clone https://github.com/karianjahi/business-card.git
 cd business-card
 ```
 
